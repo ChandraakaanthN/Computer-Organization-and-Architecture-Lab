@@ -1,3 +1,3 @@
 # Computer-Organization-and-Architecture-Lab
 <br>
-SEM COA COURSE LAB ASSIGNMENTS
+SEM-5 COA COURSE LAB ASSIGNMENTS
