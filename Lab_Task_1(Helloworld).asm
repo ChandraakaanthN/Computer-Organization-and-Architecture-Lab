@@ -1,10 +1,8 @@
-
-
 org 100h
 
 jmp start
 
-msg:    db      "HEY R U!!", 0Dh,0Ah, 24h
+msg:    db      "Hey World Welcome!", 0Dh,0Ah, 24h
 
 start:  mov     dx, msg
         mov     ah, 09h 
