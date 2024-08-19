@@ -1,5 +1,4 @@
 org 100h   ; Start address of the program
-
 ; Define two 16-bit numbers to add
 num1 dw 1234h  ; First number (hexadecimal)
 num2 dw 5678h  ; Second number (hexadecimal)
